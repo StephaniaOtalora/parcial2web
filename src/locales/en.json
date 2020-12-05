@@ -1,0 +1,9 @@
+{
+	"title":"Most wanted Pokemons",
+	"img":"Imagen",
+	"name": "Name",
+	"description": "Description",
+	"weight": "Weight",
+	"height": "Height",
+	"type":"Type"
+}

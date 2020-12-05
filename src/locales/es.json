@@ -1,0 +1,9 @@
+{
+	"title":"Pokemons más deseados",
+	"img":"Imagen",
+	"name": "Nombre",
+	"description": "Descripcion",
+	"weight": "Peso",
+	"height": "Altura",
+	"type":"Tipo"
+}
